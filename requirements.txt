@@ -1,0 +1,6 @@
+gradio==3.41.0
+tensorflow==2.14.0
+visualkeras==0.0.2
+matplotlib==3.8.1
+numpy==1.26.1
+scipy==1.11.3
